@@ -1,3 +1,5 @@
 This is the first file for checking status .
 
 Add another to check in git 
+
+add to chekc 3rs
